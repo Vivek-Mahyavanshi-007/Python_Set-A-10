@@ -1,0 +1,2 @@
+Binary to Decimal: 15
+Decimal to Binary: 1111
