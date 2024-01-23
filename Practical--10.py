@@ -1,6 +1,6 @@
 fh = open('Output.txt', 'w')
 
-# Binary to 
+# Binary to Decimal
 
 binary_number = input('Enter the number base 2: ')
 decimal_result = int(binary_number, 2)
